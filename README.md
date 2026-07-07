@@ -10,4 +10,6 @@ Tasks @ Syntecxhub Data Science Internship.
 ## [Task3](https://github.com/Asma-Nasr/Syntecxhub_Internship/tree/main/Week%203)
 1. [Titanic dataset EDA](https://github.com/Asma-Nasr/Syntecxhub_Internship/blob/main/Week%203/Project1.ipynb)
 2. [Netflix dataset EDA](https://github.com/Asma-Nasr/Syntecxhub_Internship/blob/main/Week%203/Project2.ipynb)
-## [Task4]()
+## [Task4](https://github.com/Asma-Nasr/Syntecxhub_Internship/tree/main/Week%204)
+1. [Sales Analysis](https://github.com/Asma-Nasr/Syntecxhub_Internship/blob/main/Week%204/Project1.ipynb)
+2. [IPL / Sports Data Analysis](https://github.com/Asma-Nasr/Syntecxhub_Internship/blob/main/Week%204/Project2.ipynb)
